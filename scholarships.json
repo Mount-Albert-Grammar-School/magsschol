@@ -1,0 +1,2707 @@
+[
+    {
+        "name": "Melbourne Access Scholarship",
+        "link": "https://scholarships.unimelb.edu.au/awards/melbourne-access-scholarship",
+        "offered_by": "Aus: University of Melbourne",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Financial Need"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 15000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "TBC"
+    },
+    {
+        "name": "Science Access Scholarship",
+        "link": "https://scholarships.unimelb.edu.au/awards/science-access-scholarship",
+        "offered_by": "Aus: University of Melbourne",
+        "applicable_subjects": [
+            "Science"
+        ],
+        "student_requirements": [
+            "Financial Need"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 15000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "TBC"
+    },
+    {
+        "name": "Science Achievement Scholarship",
+        "link": "https://scholarships.unimelb.edu.au/awards/science-achievement-scholarship",
+        "offered_by": "Aus: University of Melbourne",
+        "applicable_subjects": [
+            "Science"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 10000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "TBC"
+    },
+    {
+        "name": "Engineering Undergraduate Merit in Aerospace, Mechanical and Mechatronic",
+        "link": "https://www.sydney.edu.au/scholarships/b/ug-merit-scholarship-aeropace-mechanical-mechatronic-engineering.html",
+        "offered_by": "Aus: University of Sydney",
+        "applicable_subjects": [
+            "Aerospace Engineering",
+            "Mechanical Engineering",
+            "Mechantronics"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 40000
+            },
+            "extra": []
+        },
+        "open_date": "TBC 2023",
+        "close_date": "TBC 2023"
+    },
+    {
+        "name": "Engineering Undergraduate Merit Scholarship",
+        "link": "https://www.sydney.edu.au/scholarships/b/engineering-undergraduate-merit-scholarship.html",
+        "offered_by": "Aus: University of Sydney",
+        "applicable_subjects": [
+            "Engineering"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 40000
+            },
+            "extra": []
+        },
+        "open_date": "TBC 2023",
+        "close_date": "TBC 2023"
+    },
+    {
+        "name": "Engineering Undergraduate Merit Scholarship in Biomedical Engineering",
+        "link": "https://www.sydney.edu.au/scholarships/b/ug-merit-scholarship-biomedical-engineering.html",
+        "offered_by": "Aus: University of Sydney",
+        "applicable_subjects": [
+            "Biomedical Engineering"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 40000
+            },
+            "extra": []
+        },
+        "open_date": "TBC 2023",
+        "close_date": "TBC 2023"
+    },
+    {
+        "name": "Engineering Undergraduate Merit Scholarship School of Civil Engineering",
+        "link": "https://www.sydney.edu.au/scholarships/b/engineering-undergraduate-merit-scholarship-school-of-civil-engi.html",
+        "offered_by": "Aus: University of Sydney",
+        "applicable_subjects": [
+            "Civil Engineering"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 40000
+            },
+            "extra": []
+        },
+        "open_date": "TBC 2023",
+        "close_date": "TBC 2023"
+    },
+    {
+        "name": "Engineering Undergraduate Merit Scholarship School of Computer Science",
+        "link": "https://www.sydney.edu.au/scholarships/b/engineering-undergraduate-merit-scholarship-school-of-computer-s.html",
+        "offered_by": "Aus: University of Sydney",
+        "applicable_subjects": [
+            "Computer Science"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 40000
+            },
+            "extra": []
+        },
+        "open_date": "TBC 2023",
+        "close_date": "TBC 2023"
+    },
+    {
+        "name": "AUT Find Your Greatness Scholarship - Bachelor of Science",
+        "link": "https://www.aut.ac.nz/study/fees-and-scholarships/scholarships-and-awards-at-aut/scholarships-database/detailpage?detailCode=501248&sessionID=43142223&sourceIP=&X_FORWARDED_FOR=",
+        "offered_by": "AUT",
+        "applicable_subjects": [
+            "Science"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 14000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-09-03"
+    },
+    {
+        "name": "AUT Summer Research Scholarships - Faculty of Health and Environmental Sciences",
+        "link": "https://www.aut.ac.nz/study/fees-and-scholarships/scholarships-and-awards-at-aut/scholarships-database/detailpage?detailCode=501343&sessionID=43142223&sourceIP=&X_FORWARDED_FOR=",
+        "offered_by": "AUT",
+        "applicable_subjects": [
+            "Health Science",
+            "Environmental Science"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 6000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-10-06"
+    },
+    {
+        "name": "AUT Accommodation Scholarship - Disability, Deaf or Rainbow 2022",
+        "link": "https://aut.communityforce.com/Funds/FundDetails.aspx?496F49596D593768464E3537506B6F754D5442315A314E79614B6546365A705643724E58614E70656C55582F492B3951765264512B5745312B6178746D36755A7277574A515A70757448553D",
+        "offered_by": "AUT",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Disabled",
+            "LGBTQIA+"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": {
+                "type": "Semester",
+                "value": 1
+            },
+            "value": {
+                "currency": "NZD",
+                "value": 0
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-06-17"
+    },
+    {
+        "name": "New to AUT Accommodation Scholarship",
+        "link": "https://www.aut.ac.nz/study/fees-and-scholarships/scholarships-and-awards-at-aut/scholarships-database/detailpage?detailCode=501384&sessionID=43216131&sourceIP=&X_FORWARDED_FOR=",
+        "offered_by": "AUT",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": {
+                "type": "Semester",
+                "value": 1
+            },
+            "value": {
+                "currency": "NZD",
+                "value": 0
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-06-17"
+    },
+    {
+        "name": "Spark Scholarship",
+        "link": "https://www.aut.ac.nz/study/fees-and-scholarships/scholarships-and-awards-at-aut/scholarships-database/detailpage?detailCode=501072&sessionID=43142223&sourceIP=&X_FORWARDED_FOR=",
+        "offered_by": "AUT",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Female Identifying Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-10-01"
+    },
+    {
+        "name": "$1500 HortNZ Undergraduate Scholarship",
+        "link": "https://www.lincoln.ac.nz/study/scholarships/search-scholarships/horticulture-new-zealand-scholarships/",
+        "offered_by": "Lincoln University",
+        "applicable_subjects": [
+            "Horticulture"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 1500
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-12-10"
+    },
+    {
+        "name": "Ann Sinclair Charitable Trust",
+        "link": "https://www.lincoln.ac.nz/study/scholarships/search-scholarships/ann-sinclair-charitable-trust/",
+        "offered_by": "Lincoln University",
+        "applicable_subjects": [
+            "Agriculture",
+            "Horticulture"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 0
+            },
+            "extra": [
+                "Support provided for education, travel and accommodation expenses"
+            ]
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-10-31"
+    },
+    {
+        "name": "Bio-Protection Research Centre Summer Scholarships",
+        "link": "https://www.lincoln.ac.nz/study/scholarships/search-scholarships/bio-protection-research-centre-summer-scholarships/",
+        "offered_by": "Lincoln University",
+        "applicable_subjects": [],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 6000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-09-24"
+    },
+    {
+        "name": "Constellation Brands Scholarship",
+        "link": "https://www.lincoln.ac.nz/study/scholarships/search-scholarships/constellation-brands-scholarship/",
+        "offered_by": "Lincoln University",
+        "applicable_subjects": [
+            "Viticulture",
+            "Oenology"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-08-15"
+    },
+    {
+        "name": "Doris Swadling Scholarship",
+        "link": "https://www.lincoln.ac.nz/study/scholarships/search-scholarships/doris-swadling-scholarship/",
+        "offered_by": "Lincoln University",
+        "applicable_subjects": [
+            "Agriculture"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 0
+            },
+            "extra": [
+                "Unspecified"
+            ]
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-11-30"
+    },
+    {
+        "name": "Edna Waddell Undergrad Scholarships for Women in Technology and Engineering",
+        "link": "https://www.lincoln.ac.nz/study/scholarships/search-scholarships/edna-waddell-undergrad-scholarships-for-women-in-technology-and-engineering/",
+        "offered_by": "Lincoln University",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Female Identifying Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-09-01"
+    },
+    {
+        "name": "Gladys Grace Vale Bursary",
+        "link": "https://www.lincoln.ac.nz/study/scholarships/search-scholarships/gladys-grace-vale-bursary/",
+        "offered_by": "Lincoln University",
+        "applicable_subjects": [
+            "Horticulture"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 1000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-03-31"
+    },
+    {
+        "name": "Harwood Farm Trust",
+        "link": "https://www.lincoln.ac.nz/study/scholarships/search-scholarships/harwood-farm-trust/",
+        "offered_by": "Lincoln University",
+        "applicable_subjects": [
+            "Agriculture"
+        ],
+        "student_requirements": [
+            "Connected with East Coast of North Island"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 0
+            },
+            "extra": [
+                "Grant"
+            ]
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-11-25"
+    },
+    {
+        "name": "James and Evelyn Gane Scholarship",
+        "link": "https://www.lincoln.ac.nz/study/scholarships/search-scholarships/james-and-evelyn-gane-scholarship/",
+        "offered_by": "Lincoln University",
+        "applicable_subjects": [
+            "Agriculture",
+            "Horticulture"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-01-31"
+    },
+    {
+        "name": "Jeff Farm Scholarships",
+        "link": "https://www.lincoln.ac.nz/study/scholarships/search-scholarships/jeff-farm-scholarships/",
+        "offered_by": "Lincoln University",
+        "applicable_subjects": [
+            "Agriculture",
+            "Horticulture"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 7000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-02-04"
+    },
+    {
+        "name": "Keystone Trust School Leaver Study Awards",
+        "link": "https://www.lincoln.ac.nz/study/scholarships/search-scholarships/keystone-trust-scholarships/",
+        "offered_by": "Lincoln University",
+        "applicable_subjects": [
+            "Property and Construction"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 15000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-08-12"
+    },
+    {
+        "name": "Lincoln University Putaiao Scholarship",
+        "link": "https://www.lincoln.ac.nz/study/scholarships/search-scholarships/lincoln-university-putaiao-scholarship/",
+        "offered_by": "Lincoln University",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "M\u0101ori Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-08-15"
+    },
+    {
+        "name": "Lynwood Avocado Nursery Scholarship",
+        "link": "https://www.lincoln.ac.nz/study/scholarships/search-scholarships/lynwood-avocado-nursery-scholarship/",
+        "offered_by": "Lincoln University",
+        "applicable_subjects": [
+            "Horticulture"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 3000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-10-31"
+    },
+    {
+        "name": "Nikolas Dow Memorial Scholarship",
+        "link": "https://www.lincoln.ac.nz/study/scholarships/search-scholarships/h3valueh3pundergraduate-5000-per-year-postgraduate-10000-per-yearph3availabilityh3ulliavailable-to-new-zealand-citizen-or-permanent-resident-studentsliul/",
+        "offered_by": "Lincoln University",
+        "applicable_subjects": [
+            "Viticulture",
+            "Oenology"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-03-31"
+    },
+    {
+        "name": "Perrin Ag Consultants Scholarship",
+        "link": "https://www.lincoln.ac.nz/study/scholarships/search-scholarships/perrin-ag-consultants-scholarship/",
+        "offered_by": "Lincoln University",
+        "applicable_subjects": [
+            "Agriculture",
+            "Horticulture"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 3000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-04-30"
+    },
+    {
+        "name": "UPL Limited Scholarship",
+        "link": "https://www.lincoln.ac.nz/study/scholarships/search-scholarships/upl-limited-scholarship/",
+        "offered_by": "Lincoln University",
+        "applicable_subjects": [
+            "Agriculture",
+            "Horticulture"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-03-31"
+    },
+    {
+        "name": "Maori and Pasifika Trades Training",
+        "link": "https://www.manukau.ac.nz/study/free-study/maori-pasifika-trades-training",
+        "offered_by": "MIT",
+        "applicable_subjects": [
+            "Engineering"
+        ],
+        "student_requirements": [
+            "M\u0101ori Student",
+            "Pasifika Student"
+        ],
+        "value": {
+            "tuition": {
+                "type": "Year",
+                "value": 1
+            },
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 0
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "No Close Date"
+    },
+    {
+        "name": "KiwiRail Scholarship",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/KiwiRail_Undergraduate_Scholarship.pdf",
+        "offered_by": "Other (KiwiRail)",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Children of Permanent Kiwirail Employees"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 2000
+            },
+            "extra": []
+        },
+        "open_date": "2022-10-01",
+        "close_date": "2022-12-01"
+    },
+    {
+        "name": "Edna Waddell Undergraduate Scholarships for Women in Technology and Engineering",
+        "link": "https://www.universitiesnz.ac.nz/scholarships/edna-waddell-undergraduate-scholarships-women-technology-and-engineering",
+        "offered_by": "Other (Universities NZ)",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Female Identifying Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-09-01"
+    },
+    {
+        "name": "OneChoice Futures Grant",
+        "link": "https://www.onechoice.co.nz/grants/futures-grant",
+        "offered_by": "Other (One Choice)",
+        "applicable_subjects": [
+            "Medicine"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-10-31"
+    },
+    {
+        "name": "Girdlers' Scholarship",
+        "link": "https://www.universitiesnz.ac.nz/scholarships/girdlers%E2%80%99-scholarship",
+        "offered_by": "UK: Cambridge University",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 45000
+            },
+            "extra": []
+        },
+        "open_date": "2024-08-06",
+        "close_date": "2022-12-01"
+    },
+    {
+        "name": "Sir Douglas Myers Scholarship",
+        "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjF0NGxmM_3AhXBUWwGHQjCARMQFnoECAwQAQ&url=https%3A%2F%2Fwww.universitiesnz.ac.nz%2Fsites%2Fdefault%2Ffiles%2Funi-nz%2Fdocuments%2FMyers%2520Regulations.pdf&usg=AOvVaw03MR5m2GnMPBagifyS4B6m",
+        "offered_by": "UK: Cambridge University",
+        "applicable_subjects": [],
+        "student_requirements": [],
+        "value": {
+            "tuition": {
+                "type": "Year",
+                "value": 3
+            },
+            "accommodation": {
+                "type": "Year",
+                "value": 3
+            },
+            "value": {
+                "currency": "NZD",
+                "value": 0
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-12-01"
+    },
+    {
+        "name": "Academic Potential Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/university-of-auckland-academic-potential-scholarship-pathway-programme-903b-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 10000
+            },
+            "extra": []
+        },
+        "open_date": "2023-05-31",
+        "close_date": "2022-08-24"
+    },
+    {
+        "name": "Academic Potential Scholarship - School Leavers",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/university-of-auckland-academic-potential-scholarship-school-leavers-903-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 10000
+            },
+            "extra": []
+        },
+        "open_date": "2023-05-31",
+        "close_date": "2023-08-23"
+    },
+    {
+        "name": "Arnold Lillie prize in geology ",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/arnold-lillie-prize-in-geology-p613-sci.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Geology"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 600
+            },
+            "extra": []
+        },
+        "open_date": "By Nomination",
+        "close_date": "By Nomination"
+    },
+    {
+        "name": "AUEA M\u0101ori Engineering Pathway Award",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/auea-maori-engineering-pathway-award-934-eng.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Engineering"
+        ],
+        "student_requirements": [
+            "M\u0101ori Student"
+        ],
+        "value": {
+            "tuition": {
+                "type": "Year",
+                "value": 0
+            },
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 10000
+            },
+            "extra": []
+        },
+        "open_date": "2023-10-04",
+        "close_date": "2023-11-15"
+    },
+    {
+        "name": "AUEA Pacific Engineering Pathway Award",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/auea-pacific-engineering-pathway-award-935-eng.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Engineering"
+        ],
+        "student_requirements": [
+            "Pasifika Student"
+        ],
+        "value": {
+            "tuition": {
+                "type": "Year",
+                "value": 0
+            },
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 10000
+            },
+            "extra": []
+        },
+        "open_date": "2023-10-04",
+        "close_date": "2023-11-15"
+    },
+    {
+        "name": "Bath Street Arts Trust Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/bath-street-arts-trust-scholarship-749-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Family background in Creative Arts"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 6000
+            },
+            "extra": []
+        },
+        "open_date": "TBC ",
+        "close_date": "TBC"
+    },
+    {
+        "name": "Bill Miller Engineering Award",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/bill-miller-engineering-award-683-eng.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Engineering"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": {
+                "type": "Year",
+                "value": 0
+            },
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 10000
+            },
+            "extra": []
+        },
+        "open_date": "2023-04-11",
+        "close_date": "2022-05-23"
+    },
+    {
+        "name": "Colombo Plan Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/colombo-plan-scholarship-in-engineering-666-eng.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Engineering"
+        ],
+        "student_requirements": [
+            "Colombo Students"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 3000
+            },
+            "extra": []
+        },
+        "open_date": "2023-05-23",
+        "close_date": "2023-07-04"
+    },
+    {
+        "name": "Douglas Goodfellow Award in Engineering",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/douglas-goodfellow-award-in-engineering-137-eng.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Engineering"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 2500
+            },
+            "extra": []
+        },
+        "open_date": "2023-03-23",
+        "close_date": "2023-05-10"
+    },
+    {
+        "name": "Edward Connolly Faculty of Engineering Entry Level Undergraduate Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/edward-connolly-faculty-of-engineering-entry-level-undergraduate-scholarship-639-eng.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Engineering"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "By Nomination",
+        "close_date": "By Nomination"
+    },
+    {
+        "name": "Edward Connolly Faculty of Engineering Kick Start Award",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/edward-connolly-foe-kick-start-award-546-eng.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Engineering"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 2000
+            },
+            "extra": []
+        },
+        "open_date": "By Nomination",
+        "close_date": "By Nomination"
+    },
+    {
+        "name": "Emma Waterhouse Award for Women in Natural Science",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/emma-waterhouse-award-1107-sci.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Natural Sciences"
+        ],
+        "student_requirements": [
+            "Female Identifying Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "2023-06-23",
+        "close_date": "2022-08-04"
+    },
+    {
+        "name": "ESET Chillisoft Scholarship in Cybersecurity",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/eset-chillisoft-scholarship-in-cyber-security-975-sci.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Cybersecurity"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "2023-07-04",
+        "close_date": "2023-08-23"
+    },
+    {
+        "name": "Faculty of Engineering Kick Start City of Sails Award",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/faculty-of-engineering-kick-start-city-of-sails-award-872-eng.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Engineering"
+        ],
+        "student_requirements": [
+            "Outside the Auckland metropolitan area"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 2000
+            },
+            "extra": []
+        },
+        "open_date": "TBC",
+        "close_date": "TBC "
+    },
+    {
+        "name": "Faculty of Engineering Kick Start Merit Award",
+        "link": null,
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Engineering"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 2000
+            },
+            "extra": []
+        },
+        "open_date": "TBC",
+        "close_date": "TBC"
+    },
+    {
+        "name": "Faculty of Engineering Kick Start M\u0101ori and Pacific Award",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/faculty-of-engineering-kick-start-maori-and-pacific-award-873-eng.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Engineering"
+        ],
+        "student_requirements": [
+            "M\u0101ori Student",
+            "Pasifika Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 2000
+            },
+            "extra": []
+        },
+        "open_date": "TBC ",
+        "close_date": "TBC "
+    },
+    {
+        "name": "Faculty of Engineering Student Support Award",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/faculty-of-engineering-student-support-award-976-eng.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Engineering"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 2500
+            },
+            "extra": []
+        },
+        "open_date": "TBC ",
+        "close_date": "TBC"
+    },
+    {
+        "name": "Faculty of Medical and Health Sciences Alumni Award",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/faculty-of-medical-and-health-sciences-alumni-award-485-fmhs.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Medicine"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 1000
+            },
+            "extra": []
+        },
+        "open_date": "2023-05-23",
+        "close_date": "2022-07-07"
+    },
+    {
+        "name": "Faculty of Science Student Support Award",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/faculty-of-science-student-support-award-642-sci.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Science"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 2500
+            },
+            "extra": []
+        },
+        "open_date": "08/02/2023 and 04/07/2023",
+        "close_date": "22/03/2023 and 15/08/2023"
+    },
+    {
+        "name": "Frances Barkley Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/frances-barkley-scholarship-596-sci.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Biological Science",
+            "Biomedical Science",
+            "Ecology",
+            "Marine Science"
+        ],
+        "student_requirements": [
+            "M\u0101ori Student",
+            "Pasifika Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "2023-09-20",
+        "close_date": "2022-11-01"
+    },
+    {
+        "name": "Friends of the University of Auckland US/NZ Exchange Award",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/friends-of-the-university-of-auckland-usnz-exchange-award-732-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 3000
+            },
+            "extra": []
+        },
+        "open_date": "TBC",
+        "close_date": "TBC"
+    },
+    {
+        "name": "Hills First in Family Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/hills-first-in-family-scholarship-751-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "First in Family to attend universitiy"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "TBC",
+        "close_date": "TBC"
+    },
+    {
+        "name": "International Student Excellence Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/university-of-auckland-international-student-excellence-scholarship-844-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "International Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 10000
+            },
+            "extra": []
+        },
+        "open_date": "10/10/2023 S1 9/03/23 S2",
+        "close_date": "21/11/02023 S1 20/04/2023 S2"
+    },
+    {
+        "name": "Jim Greatbanks Mount Albert Grammar School Engineering Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/jim-greatbanks-mount-albert-grammar-school-engineering-scholarship-943-eng.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Engineering"
+        ],
+        "student_requirements": [
+            "MAGS Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 4000
+            },
+            "extra": []
+        },
+        "open_date": "2023-08-01",
+        "close_date": "2022-09-12"
+    },
+    {
+        "name": "KiwiPlan NZ Limited Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/kiwiplan-nz-limited-scholarships-286-sci.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 4500
+            },
+            "extra": []
+        },
+        "open_date": "2023-07-04",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Lane Capital Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/lane-capital-scholarship-659-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "New Zealand Citizens or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 8000
+            },
+            "extra": []
+        },
+        "open_date": "TBC",
+        "close_date": "TBC"
+    },
+    {
+        "name": "M\u0101ori Academic Excellence Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/university-of-auckland-maori-academic-excellence-scholarship-901-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "M\u0101ori Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": {
+                "type": "Year",
+                "value": 1
+            },
+            "value": {
+                "currency": "NZD",
+                "value": 4000
+            },
+            "extra": []
+        },
+        "open_date": "2023-05-31",
+        "close_date": "2023-08-23"
+    },
+    {
+        "name": "Margaret Morton Memorial Prize",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/margaret-morton-memorial-prize-p844-sci.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Mathematics"
+        ],
+        "student_requirements": [
+            "Female Identifying Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 500
+            },
+            "extra": []
+        },
+        "open_date": "By Nomination",
+        "close_date": "By Nomination"
+    },
+    {
+        "name": "Martin Blythe First in Family Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/martin-blythe-first-in-family-scholarship-937-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "First in Family to attend universitiy"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 8000
+            },
+            "extra": []
+        },
+        "open_date": "TBC",
+        "close_date": "TBC"
+    },
+    {
+        "name": "Matariki M\u0101ori, Pacific and Indigenous Psychologies Rising Stars Award",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/matariki-maori-pacific-and-indigenous-psychologies-rising-stars-award-994-sci.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Psychology"
+        ],
+        "student_requirements": [
+            "M\u0101ori Student",
+            "Pasifika Student",
+            "Indigenous Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 750
+            },
+            "extra": []
+        },
+        "open_date": "Not Currently Open",
+        "close_date": "By Nomination"
+    },
+    {
+        "name": "Mathematics Education Technology Prize",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/mathematics-education-technology-prize-p849-sci.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [
+            "Mathematics",
+            "Statistics"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 500
+            },
+            "extra": []
+        },
+        "open_date": "By Nomination",
+        "close_date": "By Nomination"
+    },
+    {
+        "name": "Pacific Academic Excellence Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/university-of-auckland-pacific-academic-excellence-scholarship-902-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Pasifika Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": {
+                "type": "Year",
+                "value": 1
+            },
+            "value": {
+                "currency": "NZD",
+                "value": 4000
+            },
+            "extra": []
+        },
+        "open_date": "2023-05-31",
+        "close_date": "2023-08-23"
+    },
+    {
+        "name": "Pong, Tams and Ko Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/pong-tams-ko-scholarship-1037-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Disabled"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 8000
+            },
+            "extra": []
+        },
+        "open_date": "2022-12-20",
+        "close_date": "2022-02-08"
+    },
+    {
+        "name": "Presbyterian Methodist Congregational Grafton Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/presbyterian-methodist-congregational-grafton-scholarship-862-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Financial Need"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": {
+                "type": "Year",
+                "value": 3
+            },
+            "value": {
+                "currency": "NZD",
+                "value": 0
+            },
+            "extra": []
+        },
+        "open_date": "2022-09-20",
+        "close_date": "2022-11-11"
+    },
+    {
+        "name": "Sanders Memorial Scholarship ",
+        "link": null,
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Chilrdren of Navy or Marine Service members"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "2022-10-19",
+        "close_date": "2022-11-30"
+    },
+    {
+        "name": "Scholarship for Students from Refugee Backgrounds",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/university-of-auckland-scholarship-for-students-from-refugee-backgrounds-869-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Student from Refugee Background"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "2023-09-27",
+        "close_date": "2023-11-15"
+    },
+    {
+        "name": "The Jackson Family Foundation Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/the-jackson-family-foundation-scholarship-750-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Cook Island Descent",
+            "Female Identifying Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 11000
+            },
+            "extra": []
+        },
+        "open_date": "2023-12-21",
+        "close_date": "2024-02-01"
+    },
+    {
+        "name": "The Kate Edger Educational Charitable Trust Dame Dorothy Winstone and Rae Hammer New Start Award",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/the-kate-edger-educational-charitable-trust-winstone-hammer-new-start-award-821-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Female Identifying Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 6000
+            },
+            "extra": []
+        },
+        "open_date": "2023-10-10",
+        "close_date": "2023-11-21"
+    },
+    {
+        "name": "Top Achiever Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/university-of-auckland-top-achiever-scholarship-900-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": {
+                "type": "Year",
+                "value": 1
+            },
+            "value": {
+                "currency": "NZD",
+                "value": 4000
+            },
+            "extra": []
+        },
+        "open_date": "2023-05-31",
+        "close_date": "2023-08-23"
+    },
+    {
+        "name": "Vaka Moana Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/uoa-vaka-moana-scholarship-1080-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Pasifika Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": {
+                "type": "Year",
+                "value": 1
+            },
+            "value": {
+                "currency": "NZD",
+                "value": 0
+            },
+            "extra": [
+                "Laptop"
+            ]
+        },
+        "open_date": "2023-05-31",
+        "close_date": "2023-08-23"
+    },
+    {
+        "name": "Vietnam Excellence Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/university-of-auckland-vietnam-excellence-scholarship-1085-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Vietnamn International Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 10000
+            },
+            "extra": []
+        },
+        "open_date": "2023-10-10",
+        "close_date": "2023-11-21"
+    },
+    {
+        "name": "Waka Moana Scholarship",
+        "link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/uoa-waka-moana-scholarship-1079-all.html",
+        "offered_by": "University of Auckland",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "M\u0101ori Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": {
+                "type": "Year",
+                "value": 1
+            },
+            "value": {
+                "currency": "NZD",
+                "value": 0
+            },
+            "extra": [
+                "Laptop"
+            ]
+        },
+        "open_date": "2023-05-31",
+        "close_date": "2023-08-23"
+    },
+    {
+        "name": "Aruhiko \u2013 Power Engineering Excellence Trust Undergraduate Scholarship (School-Leaver Scholarship)",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/Aruhiko_Power_Engineering_Excellence_Trust_Undergraduate_Scholarship.pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [
+            "Engineering"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 3000
+            },
+            "extra": []
+        },
+        "open_date": "2023-06-20",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Auaha Scholarship (School-Leaver Scholarship)",
+        "link": "https://scholarshipscanterbury.communityforce.com/Funds/FundDetails.aspx?634874666E67316C32307A547466394A68485445622B42756C423166726F6A7939314154516C67777A3737476E62435A37796A49486F3077765445542F6A4249",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "2023-10-04",
+        "close_date": "2023-11-22"
+    },
+    {
+        "name": "Chalky Carr Scholarship",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/Chalky_Carr_Scholarship.pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Student affected by cancer (through family or directly)"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "2023-09-05",
+        "close_date": "2023-10-31"
+    },
+    {
+        "name": "Computer Science High Achievers Award (School-Leaver Scholarship)",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/UC_Computer_Science_High_Achievers_Award.pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [
+            "Computer Science"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 2000
+            },
+            "extra": []
+        },
+        "open_date": "2023-06-20",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Elaine P Snowden Scholarship in Astronomy (School-Leaver Scholarship)",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/Elaine_P_Snowden_Scholarship.pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [
+            "Astronomy"
+        ],
+        "student_requirements": [
+            "New Zealand Citizens or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": [
+                "Mentorship"
+            ]
+        },
+        "open_date": "2023-06-20",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Engineering International Scholarship (NZ School-Leaver Scholarship)",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/UC_Engineering_International_Scholarship.pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [
+            "Engineering"
+        ],
+        "student_requirements": [
+            "International Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 15000
+            },
+            "extra": []
+        },
+        "open_date": "2023-06-20",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Engineering M\u0101ori Scholarship (School-Leaver Scholarship)",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/UC_Engineering_M%C4%81ori_Scholarship.pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "M\u0101ori Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "2023-06-20",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Engineering Pasifika Scholarship (School-Leaver Scholarship)",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/UC_Engineering_Pacific_Pasifika_Scholarship.pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "M\u0101ori Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "2023-06-20",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Engineering Top Achievers Scholarship (School-Leaver Scholarship)",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/UC_Engineering_Top_Achievers_Scholarship.pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [
+            "Engineering"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "2023-06-20",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Go Waitaha Canterbury Scholarship (School-Leaver Scholarship)",
+        "link": "http://www.canterbury.ac.nz/scholarshipsforms/regulations/Go_Waitaha_Canterbury_Scholarship.pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "2023-06-20",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Helen Macmillan Brown Bursary (School-Leaver Scholarship)",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/Helen_Macmillan_Brown_Bursary.pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Female Identifying Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 2500
+            },
+            "extra": []
+        },
+        "open_date": "2023-06-20",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Hiranga Scholarship (School-Leaver Scholarship)",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/UC_Hiranga_Scholarship.pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "2023-06-20",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Horomata Scholarship (School-Leaver Scholarship)",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/UC_Horomata_Scholarship.pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 6000
+            },
+            "extra": []
+        },
+        "open_date": "2023-06-20",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Indian Student Support Fund (By invitation only)",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/UC_Indian_Student_Support_Fund.pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Indian International Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 2000
+            },
+            "extra": []
+        },
+        "open_date": "Always Open",
+        "close_date": null
+    },
+    {
+        "name": "International First Year Scholarship (NZ School-Leaver Scholarship)",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/UC_International_First_Year_Scholarship_(NZ_School-Leaver).pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "International Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 15000
+            },
+            "extra": []
+        },
+        "open_date": "2023-06-20",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "John Waller Memorial Scholarship (School-Leaver Scholarship)",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/John_Waller_Memorial_Scholarship.pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [
+            "Science"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 6000
+            },
+            "extra": []
+        },
+        "open_date": "2023-06-20",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Kaitoko M\u0101ori Scholarship (School-Leaver Scholarship)",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/UC_Kaitoko_M%C4%81ori_Scholarship.pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "M\u0101ori Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 6000
+            },
+            "extra": []
+        },
+        "open_date": "2023-06-20",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Lyttelton Port Company UC Scholarship",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/Lyttelton_Port_Company_UC_Scholarship.pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Children of Lyttleton Prt Company employees"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 10000
+            },
+            "extra": []
+        },
+        "open_date": "2023-06-20",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Rotary Club of Belfast-Kaiapoi Disability Scholarship (School-Leaver Scholarship)",
+        "link": "https://www.canterbury.ac.nz/scholarshipsforms/regulations/Rotary_Club_of_Belfast%E2%80%93Kaiapoi_Disability_Scholarship.pdf",
+        "offered_by": "University of Canterbury",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Disabled"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 3000
+            },
+            "extra": []
+        },
+        "open_date": "2023-06-20",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Academic Excellence Entrance Scholarship",
+        "link": "https://www.otago.ac.nz/study/scholarships/database/otago019359.html",
+        "offered_by": "University of Otago ",
+        "applicable_subjects": [],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": {
+                "type": "Year",
+                "value": 1
+            },
+            "value": {
+                "currency": "NZD",
+                "value": 30000
+            },
+            "extra": []
+        },
+        "open_date": "2023-07-01",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Alumni Appeal Entrance Scholarship",
+        "link": "https://www.otago.ac.nz/study/scholarships/database/search/otago661109.html",
+        "offered_by": "University of Otago ",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Financial Need"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 6000
+            },
+            "extra": []
+        },
+        "open_date": "2023-07-01",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Alumni in America Inc. Entrance Scholarship",
+        "link": "https://www.otago.ac.nz/study/scholarships/database/otago661112.html",
+        "offered_by": "University of Otago ",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Financial Need"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 6000
+            },
+            "extra": []
+        },
+        "open_date": "2023-07-01",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Donna-Rose McKay Entrance Scholarship",
+        "link": "https://www.otago.ac.nz/study/scholarships/database/search/otago033024.html",
+        "offered_by": "University of Otago ",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Disabled"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 6000
+            },
+            "extra": []
+        },
+        "open_date": "2023-07-01",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Dux Scholarship",
+        "link": "https://www.otago.ac.nz/study/scholarships/database/otago014620.html",
+        "offered_by": "University of Otago ",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Dux Bellorum"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 0
+            },
+            "extra": [
+                "Varies"
+            ]
+        },
+        "open_date": "After School Prize Giving",
+        "close_date": "After School Prize Giving"
+    },
+    {
+        "name": "M\u0101ori Entrance Scholarship",
+        "link": "https://www.otago.ac.nz/study/scholarships/database/search/otago014653.html",
+        "offered_by": "University of Otago ",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "M\u0101ori Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 13000
+            },
+            "extra": []
+        },
+        "open_date": "2023-07-01",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "N G Stewart Scholarship",
+        "link": "https://www.otago.ac.nz/study/scholarships/database/otago0146531.html",
+        "offered_by": "University of Otago ",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Disabled"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 1500
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2024-01-15"
+    },
+    {
+        "name": "New Frontiers Entrance Scholarship",
+        "link": "https://www.otago.ac.nz/study/scholarships/database/search/otago110665.html",
+        "offered_by": "University of Otago ",
+        "applicable_subjects": [],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 4000
+            },
+            "extra": []
+        },
+        "open_date": "2023-07-01",
+        "close_date": "2024-03-04"
+    },
+    {
+        "name": "Pacific Peoples' Entrance Scholarship",
+        "link": "https://www.otago.ac.nz/study/scholarships/database/search/otago684758.html",
+        "offered_by": "University of Otago ",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Pasifika Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 14000
+            },
+            "extra": []
+        },
+        "open_date": "2023-07-01",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "Ralph & Eve Seelye Academic Excellence Entrance Scholarships",
+        "link": "https://www.otago.ac.nz/study/scholarships/database/search/otago713277.html",
+        "offered_by": "University of Otago ",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Financial Need"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 23000
+            },
+            "extra": []
+        },
+        "open_date": "2023-07-01",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "University of Otago 150th Entrance Scholarships",
+        "link": "https://www.otago.ac.nz/study/scholarships/database/search/otago014587.html",
+        "offered_by": "University of Otago ",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Financial Need"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 14000
+            },
+            "extra": []
+        },
+        "open_date": "2023-07-01",
+        "close_date": "2023-08-15"
+    },
+    {
+        "name": "International Entrance Scholarship for School Leavers",
+        "link": "https://cms.its.waikato.ac.nz/scholarships/s/university-of-waikato-international-entrance-scholarship-for-school-leavers",
+        "offered_by": "University of Waikato",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "International Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 15000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2024-01-01"
+    },
+    {
+        "name": "International Excellence Scholarship",
+        "link": "https://www.waikato.ac.nz/scholarships/s/university-of-waikato-international-excellence-scholarship",
+        "offered_by": "University of Waikato",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "International Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 15000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-01-01"
+    },
+    {
+        "name": "American University Emerging Global Leader Scholarship",
+        "link": "https://www.scholars4dev.com/2876/usa-fulbright-scholarships-for-international-students/",
+        "offered_by": "US: American University",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Non US Citizen"
+        ],
+        "value": {
+            "tuition": {
+                "type": "Year",
+                "value": 3
+            },
+            "accommodation": {
+                "type": "Year",
+                "value": 3
+            },
+            "value": {
+                "currency": "NZD",
+                "value": 0
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2023-10-01"
+    },
+    {
+        "name": "Robertson Scholars Leadership Program",
+        "link": "https://www.universitiesnz.ac.nz/scholarships/robertson-scholars-leadership-program",
+        "offered_by": "US: Duke University and UNC-Chapel Hil",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": {
+                "type": "Year",
+                "value": 3
+            },
+            "accommodation": {
+                "type": "Year",
+                "value": 3
+            },
+            "value": {
+                "currency": "NZD",
+                "value": 0
+            },
+            "extra": []
+        },
+        "open_date": "2023-08-01",
+        "close_date": "2023-12-01"
+    },
+    {
+        "name": "Andrea Brander Accommodation Scholarship",
+        "link": "https://www.wgtn.ac.nz/scholarships/current/andrea-brander-accommodation-scholarship",
+        "offered_by": "Victoria University of Wellington",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Financial Need"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 2000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2022-11-01"
+    },
+    {
+        "name": "Centre for Science in Society Undergraduate Study Scholarship: BSc Majoring in Science Communication",
+        "link": "https://www.wgtn.ac.nz/scholarships/current/centre-fro-science-in-society-undergraduate-study-scholarship-bsc-majoring-in-science-communication",
+        "offered_by": "Victoria University of Wellington",
+        "applicable_subjects": [
+            "Science"
+        ],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 2000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2023-12-04"
+    },
+    {
+        "name": "Graduate Women Wellington - First in Family Scholarship",
+        "link": "https://www.wgtn.ac.nz/scholarships/current/graduate-women-wellington-first-in-family-scholarship",
+        "offered_by": "Victoria University of Wellington",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Female Identifying Student",
+            "First in Family to attend university"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 0
+            },
+            "extra": [
+                "TBC"
+            ]
+        },
+        "open_date": "Open Now",
+        "close_date": "2023-11-15"
+    },
+    {
+        "name": "Jamieson Family Sport Scholarship for Pasifika Students",
+        "link": "https://www.wgtn.ac.nz/scholarships/current/jamieson-family-sport-scholarship-for-pasifika-students",
+        "offered_by": "Victoria University of Wellington",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Pasifika Student",
+            "Athlete"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 30000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2023-10-31"
+    },
+    {
+        "name": "Kahotea Scholarship - (School Leaver Scholarships for Outstanding Achievements)",
+        "link": "https://www.wgtn.ac.nz/scholarships/current/kahotea-scholarship",
+        "offered_by": "Victoria University of Wellington",
+        "applicable_subjects": [],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 35000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2023-09-01"
+    },
+    {
+        "name": "Laerdal New Zealand Nursing & Midwifery Scholarship",
+        "link": "https://www.wgtn.ac.nz/scholarships/current/laerdal-new-zealand-nursing-and-midwifery-scholarship",
+        "offered_by": "Victoria University of Wellington",
+        "applicable_subjects": [
+            "Midwifery"
+        ],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2023-11-30"
+    },
+    {
+        "name": "Matatoa Sport Scholarships",
+        "link": "https://www.wgtn.ac.nz/scholarships/current/matatoa-sport-scholarships",
+        "offered_by": "Victoria University of Wellington",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Athlete"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 7000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2023-09-15"
+    },
+    {
+        "name": "Miriama Evans Memorial Scholarship",
+        "link": "https://www.wgtn.ac.nz/scholarships/current/miriama-evans-memorial-scholarship",
+        "offered_by": "Victoria University of Wellington",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "M\u0101ori Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 2500
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2023-07-01"
+    },
+    {
+        "name": "Norman Kirk Memorial Trust Pasifika Scholarship",
+        "link": "https://www.wgtn.ac.nz/scholarships/current/norman-kirk-memorial-trust-pasifika-scholarship",
+        "offered_by": "Victoria University of Wellington",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Pasifika Student",
+            "Financial Need"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 6000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2023-09-15"
+    },
+    {
+        "name": "Ormond Wilson Scholarship",
+        "link": "https://www.wgtn.ac.nz/scholarships/current/ormond-wilson-scholarship",
+        "offered_by": "Victoria University of Wellington",
+        "applicable_subjects": [
+            "Science"
+        ],
+        "student_requirements": [
+            "Financial Need"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 2000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2023-12-01"
+    },
+    {
+        "name": "Roger Robinson Scholarship for Student Runners",
+        "link": "https://www.wgtn.ac.nz/scholarships/current/roger-robinson-scholarship-for-student-runners",
+        "offered_by": "Victoria University of Wellington",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "Competitive Runner"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2023-10-31"
+    },
+    {
+        "name": "Tangiwai Scholatship - (School Leaver Scholarships for Excellence)",
+        "link": "https://www.wgtn.ac.nz/scholarships/current/tangiwai-scholarship",
+        "offered_by": "Victoria University of Wellington",
+        "applicable_subjects": [],
+        "student_requirements": [],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 10000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2023-09-01"
+    },
+    {
+        "name": "The Todd Scholarship",
+        "link": "https://www.wgtn.ac.nz/scholarships/current/todd-family-bachelor-of-midwifery-scholarship",
+        "offered_by": "Victoria University of Wellington",
+        "applicable_subjects": [
+            "Midwifery"
+        ],
+        "student_requirements": [
+            "Financial Need"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 10000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2023-11-30"
+    },
+    {
+        "name": "Totoweka Scholarships - (School leaver Scholarships for Equity and Support)",
+        "link": "https://www.wgtn.ac.nz/scholarships/current/totoweka-scholarship",
+        "offered_by": "Victoria University of Wellington",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "M\u0101ori Student",
+            "Pasifika Student",
+            "Diabled",
+            "Financial Need",
+            "Refugee Background"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 10000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2023-09-01"
+    },
+    {
+        "name": "Victoria University of Wellington Foundation Trustees' Scholarship",
+        "link": "https://www.wgtn.ac.nz/scholarships/current/victoria-university-foundation-trustees-scholarship",
+        "offered_by": "Victoria University of Wellington",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "First in Family to attend university"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 30000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2023-10-01"
+    },
+    {
+        "name": "Weir House Alumni Scholarship",
+        "link": "https://www.wgtn.ac.nz/scholarships/current/weir-house-alumni-scholarship",
+        "offered_by": "Victoria University of Wellington",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "New Zealand Citizen or Resident"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 5000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2023-10-01"
+    },
+    {
+        "name": "Wellington international Excellence Scholarship",
+        "link": "https://www.wgtn.ac.nz/scholarships/current/wellington-international-excellence-scholarships",
+        "offered_by": "Victoria University of Wellington",
+        "applicable_subjects": [],
+        "student_requirements": [
+            "International Student"
+        ],
+        "value": {
+            "tuition": null,
+            "accommodation": null,
+            "value": {
+                "currency": "NZD",
+                "value": 20000
+            },
+            "extra": []
+        },
+        "open_date": "Open Now",
+        "close_date": "2023-09-01"
+    }
+]
