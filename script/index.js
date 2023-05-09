@@ -125,7 +125,9 @@ function makeCard(scholarship) {
 
     offered_by_element = document.createElement('h2');
     offered_by_element.className = "scholarship_offered_by"
-    offered_by_element.innerText = `Offered by ${offered_by}`
+
+    offered_by_element.className = "scholarship_offered_by"
+    offered_by_element.innerText = `${offered_by}`
 
     //card.appendChild(title_element)
     //card.appendChild(offered_by_element)
@@ -281,6 +283,8 @@ function updateFilters() {
 
     subjects = document.getElementById("subject_filter").getElementsByClassName("dropdown-content")[0].getElementsByClassName("filter-selected");
     subjects = Array.from(subjects).map(x => x.innerText);
+
+    filter_list = document.getElementById("filter-list");
 
     for (card of CARDS) {
         let displayed = true;

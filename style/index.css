@@ -29,6 +29,8 @@
     font-size: 16px;
     font-weight: 700;
     margin-bottom: 10px;
+    color: grey;
+    /* font-style: italic; */
     text-align: left;
     margin-left: 10px;
 }
@@ -114,7 +116,7 @@
 }
 
 .filter-selected {
-    background-color: #3e8e41;
+    background-color: #3e9141;
     color: white;
 }
 
@@ -132,4 +134,31 @@
 .filter-not-selected:hover {
     background-color: #3e8e41;
     color: white;
+}
+
+#filter-list {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* arrange elements horizontally */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.tag-list {
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.tag {
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+}
+
+.tag:hover {
+    text-decoration: line-through;
 }

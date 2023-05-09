@@ -6,3 +6,4 @@ Server.py
 student_requirements_cache.json
 treater.py
 value_cache.json
+*.stackdump
