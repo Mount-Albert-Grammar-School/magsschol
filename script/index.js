@@ -427,7 +427,7 @@ function onLoad() {
         element.setAttribute("selected", "false");
 
         element.onclick = function () {
-            if (this.getAttribute("selected") == "false") {
+            if (this.classList.contains("filter-not-selected")) {
                 this.classList.remove("filter-not-selected");
                 this.classList.add("filter-selected");
                 this.setAttribute("selected", "true");
