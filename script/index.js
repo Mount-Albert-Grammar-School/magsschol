@@ -314,7 +314,7 @@ function updateFilters() {
         filter.id = cleanID(filter.attributes.for.value);
         appendHtml(
           current_filters,
-          `<div class="tag" onclick="{document.getElementById('${filter.id}').className = 'filter-not-selected';updateFilters()}">${filter.innerText}</div>`
+          `<div class="tag" onclick="{const elem = document.getElementById('${filter.id}'); elem.className = 'filter-not-selected'; elem.setAttribute('selected', 'false'); updateFilters()}">${filter.innerText}</div>`
         );
 
 
@@ -427,7 +427,7 @@ function onLoad() {
         element.setAttribute("selected", "false");
 
         element.onclick = function () {
-            if (this.classList.contains("filter-not-selected")) {
+            if (this.getAttribute("selected") == "false") {
                 this.classList.remove("filter-not-selected");
                 this.classList.add("filter-selected");
                 this.setAttribute("selected", "true");
