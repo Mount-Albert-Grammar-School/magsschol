@@ -125,7 +125,9 @@ function makeCard(scholarship) {
 
     offered_by_element = document.createElement('h2');
     offered_by_element.className = "scholarship_offered_by"
-    offered_by_element.innerText = `Offered by ${offered_by}`
+
+    offered_by_element.className = "scholarship_offered_by"
+    offered_by_element.innerText = `${offered_by}`
 
     //card.appendChild(title_element)
     //card.appendChild(offered_by_element)
@@ -275,12 +277,64 @@ function makeExtraInfo(scholarship) {
     return extra_info;
 }
 
+
+function appendHtml(el, str) {
+  var div = document.createElement("div");
+  div.innerHTML = str;
+  while (div.children.length > 0) {
+    el.appendChild(div.children[0]);
+  }
+}
+
+
+function cleanID(id) {
+    id = id.toUpperCase();
+    id = id.replace( /\t/ , "T");
+    id = id.replace( /\n/ , "N");
+    id = id.replace( /\r/ , "R");
+    id = id.replace( /\b/ , "B");
+    id = id.replace( /\f/ , "F");
+    return id.replace( /[^a-zA-Z0-9]/ , "");
+}
+
 function updateFilters() {
     offerers = document.getElementById("offerer_filter").getElementsByClassName("dropdown-content")[0].getElementsByClassName("filter-selected");
     offerers = Array.from(offerers).map(x => x.innerText);
 
     subjects = document.getElementById("subject_filter").getElementsByClassName("dropdown-content")[0].getElementsByClassName("filter-selected");
     subjects = Array.from(subjects).map(x => x.innerText);
+
+
+    current_filters = document.getElementById("tag-list");
+    current_filters.innerHTML = "";
+
+    filter_list = document.getElementsByClassName('filter-selected');  
+
+    for (filter of filter_list) {
+        filter.id = cleanID(filter.attributes.for.value);
+        appendHtml(
+          current_filters,
+          `<div class="tag" onclick="{document.getElementById('${filter.id}').className = 'filter-not-selected';updateFilters()}">${filter.innerText}</div>`
+        );
+
+
+        // new_tag = document.createElement("div");
+        // new_tag.className = "tag";
+        // new_tag.onclick = `function() {
+
+        //     filter.className = "filter-not-selected";
+        //     console.log("clicked", filter.className);
+        //     updateFilters();
+        // }`
+
+        // new_tag.innerText = filter.attributes.for.value;
+        // current_filters.appendChild(
+        //     new_tag
+        // );
+
+    }
+
+    // sortList(current_filters);
 
     for (card of CARDS) {
         let displayed = true;
@@ -330,8 +384,8 @@ function onLoad() {
         scholarship["applicable_subjects"].forEach(x => allSubjects.add(x));
     }
 
-    console.log(allOfferers);
-    console.log(allSubjects);
+    
+
 
     const offerFilter = document.getElementById("offerer_filter");
     const dropdownContent = offerFilter.getElementsByClassName("dropdown-content")[0];
@@ -359,8 +413,11 @@ function onLoad() {
         dropdownContent.appendChild(element);
     }
 
+    sortList(dropdownContent);
+
     const subjectFilter = document.getElementById("subject_filter");
     const subjectDropdownContent = subjectFilter.getElementsByClassName("dropdown-content")[0];
+
 
     for (subject of allSubjects) {
         const element = document.createElement("div");
@@ -385,4 +442,39 @@ function onLoad() {
 
         subjectDropdownContent.appendChild(element);
     }
+    sortList(subjectDropdownContent);
+
+}
+
+
+function 
+sortList(list) {
+  var list, i, switching, b, shouldSwitch;
+  switching = true;
+  /* Make a loop that will continue until
+  no switching has been done: */
+  while (switching) {
+    // Start by saying: no switching is done:
+    switching = false;
+    b = list.getElementsByTagName("div");
+    // Loop through all list items:
+    for (i = 0; i < b.length - 1; i++) {
+      // Start by saying there should be no switching:
+      shouldSwitch = false;
+      /* Check if the next item should
+      switch place with the current item: */
+      if (b[i].innerHTML.toLowerCase() > b[i + 1].innerHTML.toLowerCase()) {
+        /* If next item is alphabetically lower than current item,
+        mark as a switch and break the loop: */
+        shouldSwitch = true;
+        break;
+      }
+    }
+    if (shouldSwitch) {
+      /* If a switch has been marked, make the switch
+      and mark the switch as done: */
+      b[i].parentNode.insertBefore(b[i + 1], b[i]);
+      switching = true;
+    }
+  }
 }
