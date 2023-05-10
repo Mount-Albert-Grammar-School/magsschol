@@ -145,7 +145,7 @@
     align-items: center;
 }
 
-.tag-list {
+#tag-list {
     flex-wrap: wrap;
     display: flex;
     flex-direction: row;

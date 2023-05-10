@@ -284,7 +284,27 @@ function updateFilters() {
     subjects = document.getElementById("subject_filter").getElementsByClassName("dropdown-content")[0].getElementsByClassName("filter-selected");
     subjects = Array.from(subjects).map(x => x.innerText);
 
-    filter_list = document.getElementById("filter-list");
+
+    current_filters = document.getElementById("tag-list");
+    current_filters.innerHTML = "";
+
+    filter_list = document.getElementsByClassName('filter-selected');  
+
+    for (filter of filter_list) {
+
+        new_tag = document.createElement("div");
+        new_tag.className = "tag";
+        new_tag.onclick = function() {
+            filter.className = "filter-not-selected";
+            console.log("clicked", filter.className);
+            updateFilters();
+        }
+        new_tag.innerText = filter.attributes.for.value;
+        current_filters.appendChild(
+            new_tag
+        );
+
+    }
 
     for (card of CARDS) {
         let displayed = true;
@@ -334,8 +354,6 @@ function onLoad() {
         scholarship["applicable_subjects"].forEach(x => allSubjects.add(x));
     }
 
-    console.log(allOfferers);
-    console.log(allSubjects);
 
     const offerFilter = document.getElementById("offerer_filter");
     const dropdownContent = offerFilter.getElementsByClassName("dropdown-content")[0];
